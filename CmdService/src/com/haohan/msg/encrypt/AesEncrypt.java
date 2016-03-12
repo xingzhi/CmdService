@@ -1,12 +1,11 @@
 /*
- * Copyright (c) 2008-2014 浩瀚深度 All Rights Reserved.
  *
  * FileName: AesEncrypt.java
  *
  * Description：
  *
  * History:
- * v1.0.0, szg, 2014-3-10, Create
+ * v1.0.0, lds, 2014-3-10, Create
  */
 package com.haohan.msg.encrypt;
 
