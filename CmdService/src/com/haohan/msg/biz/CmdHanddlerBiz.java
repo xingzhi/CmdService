@@ -1,5 +1,4 @@
 /*
- * Copyright (c) 2008-2014 浩瀚深度 All Rights Reserved.
  *
  * FileName: MsgHanddleBiz.java
  *
