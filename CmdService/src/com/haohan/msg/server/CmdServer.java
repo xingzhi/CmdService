@@ -33,7 +33,7 @@ import com.haohan.msg.server.handdler.ServerHandler;
 
 /**
  * 类：HrsccServer
- * @author szg
+ * @author lds
  * @version 
  */
 public class CmdServer extends Thread
